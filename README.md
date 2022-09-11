@@ -32,7 +32,6 @@ To import all demos at once in the project manager:
 - Open the Godot project manager and click the **Scan** button on the right.
 - Choose the path to the folder containing all demos.
 - All demos should now appear in the project manager.
-- **_THIS IS SO I CAN VIEW THE PROJECT EASIER_**
 
 ## Try the demos in your browser
 
